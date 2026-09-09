@@ -52,8 +52,8 @@ readme = { content-type = "text/markdown", file = "README.md" }
 requires-python = ">=3.8"
 
 [project.scripts]
-d2p = "dir2prompt_uvx.__main__:main"
-dir2prompt = "dir2prompt_uvx.__main__:main"
+d2p = "dir2prompt.__main__:main"
+dir2prompt = "dir2prompt.__main__:main"
 
 [project.urls]
 documentation = "https://github.com/ngirard/dir2prompt/blob/main/README.md"

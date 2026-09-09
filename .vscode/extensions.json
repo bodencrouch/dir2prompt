@@ -1,0 +1,26 @@
+{
+    "recommendations": [
+        "charliermarsh.ruff",
+        "jannchie.ruff-ignore-explainer",
+        "morningstart.ruff-helper",
+        "ms-python.debugpy",
+        "ms-python.vscode-python-envs",
+        "littlefoxteam.vscode-python-test-adapter",
+        "zeshuaro.vscode-python-poetry",
+        "franneck94.vscode-python-config",
+        "twixes.pypi-assistant",
+        "fabioz.vscode-pydev-python-debugger",
+        "ms-python.mypy-type-checker",
+        "ms-python.isort",
+        "tamasfe.even-better-toml",
+        "ms-python.vscode-pylance",
+        "hasnainroopawalla.vscode-python-timeit",
+        "azeemba.python-ast-preview",
+        "prasadgk.pythoncodelens",
+        "kaiyan.python-mro",
+        "arabi.python-beautifier",
+        "lukeyong.python-formatter",
+        "kamilwoniak.python-project-scaffold-generator",
+        "formulahendry.code-runner"
+    ]
+}
