@@ -22,6 +22,32 @@ Generate a prompt string for your shell based on the current directory structure
 - `rg` (ripgrep): Used for legacy compatibility paths and helper routines
 - `tree`: Required for directory tree visualization
 
+## Quick Start
+
+- From a locally cloned project (astral-uv):
+
+```bash
+git clone https://github.com/yourusername/dir2prompt
+uvx --from ./dir2prompt --with-editable ./dir2prompt d2p --help
+```
+
+or without `uv`:
+
+```bash
+git clone https://github.com/yourusername/dir2prompt
+python3 -m pip install -e ./dir2prompt --user
+
+# source ~/.bashrc
+
+d2p --help
+```
+
+- In-place remote usage:
+
+```bash
+uvx --from git+https://github.com/yourusername/dir2prompt d2p --help
+```
+
 ## Installation
 
 ```bash

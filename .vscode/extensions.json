@@ -21,6 +21,11 @@
         "arabi.python-beautifier",
         "lukeyong.python-formatter",
         "kamilwoniak.python-project-scaffold-generator",
-        "formulahendry.code-runner"
+        "formulahendry.code-runner",
+        "quentinguidee.gitignore-ultimate",
+        "piotrpalarz.vscode-gitignore-generator",
+        "foxundermoon.shell-format",
+        "codezombiech.gitignore",
+        "rubbersheep.gi"
     ]
 }
