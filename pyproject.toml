@@ -29,10 +29,10 @@ dev = [
 [project]
 name = "dir2prompt"
 authors = [
-  { name = "Nicolas Girard", email = "girard.nicolas@gmail.com" },
+  { name = "Boden Crouch", email = "girard.nicolas@gmail.com" },
 ]
 maintainers = [
-  { name = "Nicolas Girard", email = "girard.nicolas@gmail.com" },
+  { name = "Boden Crouch", email = "girard.nicolas@gmail.com" },
 ]
 dependencies = []
 description = "Generate an LLM-friendly snapshot of a directory's structure and file contents."
@@ -56,11 +56,11 @@ d2p = "dir2prompt.__main__:main"
 dir2prompt = "dir2prompt.__main__:main"
 
 [project.urls]
-documentation = "https://github.com/ngirard/dir2prompt/blob/main/README.md"
-homepage = "https://github.com/ngirard/dir2prompt"
-issues = "https://github.com/ngirard/dir2prompt/issues"
-repository = "https://github.com/ngirard/dir2prompt.git"
-changelog = "https://github.com/ngirard/dir2prompt/blob/main/CHANGELOG.md"
+documentation = "https://github.com/bodencrouch/dir2prompt/blob/main/README.md"
+homepage = "https://github.com/bodencrouch/dir2prompt"
+issues = "https://github.com/bodencrouch/dir2prompt/issues"
+repository = "https://github.com/bodencrouch/dir2prompt.git"
+changelog = "https://github.com/bodencrouch/dir2prompt/blob/main/CHANGELOG.md"
 
 [tool.setuptools]
 include-package-data = true

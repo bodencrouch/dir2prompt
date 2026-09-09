@@ -83,4 +83,4 @@ Then update the version and try again.
 
 ### Build Failures
 Check the GitHub Actions workflow run at:
-https://github.com/ngirard/dir2prompt/actions
+https://github.com/bodencrouch/dir2prompt/actions

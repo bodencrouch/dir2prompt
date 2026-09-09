@@ -27,14 +27,14 @@ Generate a prompt string for your shell based on the current directory structure
 - From a locally cloned project (astral-uv):
 
 ```bash
-git clone https://github.com/yourusername/dir2prompt
+git clone https://github.com/bodencrouch/dir2prompt
 uvx --from ./dir2prompt --with-editable ./dir2prompt d2p --help
 ```
 
 or without `uv`:
 
 ```bash
-git clone https://github.com/yourusername/dir2prompt
+git clone https://github.com/bodencrouch/dir2prompt
 python3 -m pip install -e ./dir2prompt --user
 
 # source ~/.bashrc
@@ -45,7 +45,7 @@ d2p --help
 - In-place remote usage:
 
 ```bash
-uvx --from git+https://github.com/yourusername/dir2prompt d2p --help
+uvx --from git+https://github.com/bodencrouch/dir2prompt d2p --help
 ```
 
 ## Installation
@@ -64,7 +64,7 @@ sudo dnf install fd-find ripgrep tree
 # For other systems, please refer to the ripgrep and tree installation guides
 
 # Clone the repository
-git clone https://github.com/yourusername/dir2prompt.git
+git clone https://github.com/bodencrouch/dir2prompt.git
 
 # Navigate to the project directory
 cd dir2prompt
@@ -369,7 +369,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Nicolas Girard <girard.nicolas@gmail.com>
+Boden Crouch <girard.nicolas@gmail.com>
 
 ## Acknowledgments
 

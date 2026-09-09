@@ -180,8 +180,8 @@ function maybe_install_mdsplice {
         echo "Installing md-splice using eget..."
         # Md-splice
         #   A command-line tool for precise, AST-aware insertion, replacement, deletion, and retrieval of content within Markdown files.
-        #   https://github.com/ngirard/md-splice
-        sudo eget --pre-release ngirard/md-splice --to=${prefix}/bin
+        #   https://github.com/bodencrouch/md-splice
+        sudo eget --pre-release bodencrouch/md-splice --to=${prefix}/bin
     fi
 }
 

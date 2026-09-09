@@ -25,7 +25,7 @@ function ensure_dir2prompt_built {
         VERSION=$(cat version)
         RELEASE_DATE=$(date +%Y-%m-%d)
         export VERSION
-        export MAINTAINER='Nicolas Girard <girard.nicolas@gmail.com>'
+        export MAINTAINER='Boden Crouch <girard.nicolas@gmail.com>'
         export RELEASE_DATE
         mkdir -p "$BUILD_DIR"
         envsubst '${MAINTAINER},${RELEASE_DATE},${VERSION}' < src/dir2prompt.sh > "$DIR2PROMPT"

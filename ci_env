@@ -1,9 +1,9 @@
 BUILD_DIR="build"
 DESCRIPTION="Generate a prompt string for your shell based on the current directory."
-HOMEPAGE='https://github.com/ngirard/dir2prompt'
+HOMEPAGE='https://github.com/bodencrouch/dir2prompt'
 LICENSE='MIT'
-MAINTAINER='Nicolas Girard <girard.nicolas@gmail.com>'
+MAINTAINER='Boden Crouch <girard.nicolas@gmail.com>'
 PACKAGE_NAME='dir2prompt'
 PREFIX=/usr/local
 PROGRAM_NAME='dir2prompt'
-VENDOR='Nicolas Girard'
+VENDOR='Boden Crouch'
